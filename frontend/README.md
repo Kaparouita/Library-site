@@ -1,9 +1,21 @@
 # FrontEnd using REACT for the library APP
 
-# need nodejs -> npm install
+### Prerequisites
 
-# depending libraries mantine && mui-icons
-# 1. npm install @mantine/core @mantine/hooks @mantine/dates dayjs @emotion/react 
-# 2. npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
+- Node.js
+- npm
 
-# to start the server -> npm start
+### Installation
+
+1. ```bash
+    npm install
+   ```
+2. ```bash
+    npm start
+    ```
+
+### Usage
+
+1. Open your browser and navigate to `http://localhost:3000/register` to register a new user.
+2. After registering, you can log in and start using the app.
+3. Browse the library and borrow books.
